@@ -70,6 +70,7 @@ if __name__ == "__main__":
     for char, id in char2id.items():
         if char != query_char:
             key_char_data = get_tensor_by_char(char).permute(2, 1, 0)[0, :, :].to(device)
+            # TODO(lium, 27/06)
             query_res[id] = cross_correlation(query_char_data, key_char_data)
         else:
             continue
