@@ -3,4 +3,4 @@ inspired by [A Hybrid Approach to Automatic Corpus Generation for Chinese Spelli
 derived from [the corresponding code](https://github.com/wdimmy/Automatic-Corpus-Generation)
 
 
-on [Baidu AI Studio] (https://aistudio.baidu.com/aistudio/projectdetail/4316449?shared=1)
+on [Baidu AI Studio](https://aistudio.baidu.com/aistudio/projectdetail/4316449?shared=1)
